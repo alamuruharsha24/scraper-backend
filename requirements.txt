@@ -1,1 +1,4 @@
-flask
+fastapi
+uvicorn
+playwright
+pymongo
